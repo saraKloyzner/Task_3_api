@@ -1,4 +1,7 @@
 
+using task_3_api;
+using task_3_api.Controllers;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -22,6 +25,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+builder.Services.AddSingleton<DataContext>();
+builder.Services.AddSingleton<DataContext, LessonController> ();
+
 
 app.UseHttpsRedirection();
 app.UseCors();

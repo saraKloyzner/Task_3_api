@@ -25,8 +25,3 @@ Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj
 Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj\Debug\net6.0\task-3-api.pdb
 Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj\Debug\net6.0\task-3-api.genruntimeconfig.cache
 Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj\Debug\net6.0\ref\task-3-api.dll
-Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj\Debug\net6.0\staticwebassets\msbuild.task-3-api.Microsoft.AspNetCore.StaticWebAssets.props
-Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj\Debug\net6.0\staticwebassets\msbuild.build.task-3-api.props
-Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.task-3-api.props
-Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.task-3-api.props
-Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\task-3-api\task-3-api\obj\Debug\net6.0\staticwebassets.pack.json
